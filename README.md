@@ -5,7 +5,7 @@ who I am and what my passions are.
 - Name: Yasmine Naas
 - Year of Study: Second year of my CS bachelor
 - Interests: Technology, video games, data science, machine learning, web development etc..
-- Skills: Coding in Java and Assembly (PEP/8), Knowledge in Unix/Linux and administration of computer systems. 
+- Skills: Coding in Java, HTML, CSS and Assembly (PEP/8), Knowledge in Unix/Linux and administration of computer systems. 
 
 ### My goals as a Student:
 - **Deepen My Knowledge in a Specialization:** I want to choose a specialization within computer science, such as artificial intelligence or cybersecurity, and develop deep knowledge and expertise in that area.
