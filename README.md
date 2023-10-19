@@ -1,4 +1,4 @@
-# Welcome to my README.md
+# Goodbye World
 My name is Yasmine and I'm a CS student at UQAM! Here are some informations about\
 who I am and what my passions are.
 ### About me:
