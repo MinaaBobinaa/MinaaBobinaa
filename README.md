@@ -2,7 +2,7 @@
 My name is Yasmine and I'm a CS student at UQAM! Here are some informations about\
 who I am and what my passions are.
 ### About me:
-- Name: Yasmine 
+- Name: Yasmine Naas
 - Year of Study: Third year of my CS bachelor
 - Interests: Technology, video games, data science, machine learning, web development etc..
 - Skills: Coding in C lang, C++, Python, SQL, Java, JS, HTML, CSS and Assembly (PEP/8) and knowledge in Unix/Linux. 
